@@ -1,0 +1,1124 @@
+{
+    "status": "success",
+    "statusCode": null,
+    "redirect": null,
+    "data": {
+        "requestId": "BS4050221058",
+        "tripDetails": [
+            {
+                "AC": true,
+                "arrivalTime": "4:00 AM",
+                "availableSeats": 16,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "Kukatpalli, testing",
+                        "boardingContact": "99999999999999",
+                        "boardingId": "24511",
+                        "boardingLandmark": "kukatpalli,Testing",
+                        "boardingName": "Abids",
+                        "boardingTime": "3:00 AM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "tGhyYoZIqrip2vh4taLyiCGZiV46tNiz5MhkbVRYu64EL0xQH06skc+CXBbdaJZMLydQBjyfEKyuoZyHo8O799SnIY0UkJml+CUsAQhx9a7Lwk9ge6aV999CkO/rbGOG0Z5/OfvV+CS1dzjdwtdm6nwu+/m6FQG0/xLLw73rHvq8tG4Z/3gVymYSv5ynWQigiNrKtNPdNav23u7rWTkLIqXmN7lmZpzlBqIUsSblmseY5xR52bVYTGTRKX9OLbk4yLB+B9z9oz67LS1P+2BwIXwy24e/JN4YCMR/FHEwo2b7PaRdCx728NczsS7PzP+v0eI+fcegAlpbMpC8CLvN89zFFwY8B9Scx2JF92eYVMUhoLwgd22kh4tMap2zxEVvaKEzRp8/lc2dgB5dHA+y0HLS8+lfjIl4UMnzM0H/o3eWxvK0QSf0tvfJVl1yQhwVJ6sET/BQBVO/qt+oh8D5OPOJL0ryw5RfvZ8qUEK74y7kqgRF4zs+HjIJRgdlmamMEPzArmVwQkBSrr6vVY1QKRpanPweE3XimLfDRW4LXLxbsLUPXUHpcxfsM9KG1SXrpyKfIP+R3odBxMW6U0JL2gYkzSCov+7OWiG9eW/zy+gb467QPZOQC2EWOQ2+hswDAQtNdABx23nyUGJV+z6vdKSYHooDUf36Dqs9cN3R13X9qpcWpoHRMCU1RaT70Tzb5aTqMIsLUGjnnor6RLgia2wvfItgE7fdPrTxoBZS+TB720wrScSVgfZF7lWPpQqlp6L/qdQRtsVK6sKPtXQeCqsWWXCMDvwnB3CLipvMSUkQjh8F9/vpA8E5HzH/JKD0/7EZrxnTcXFzVEJbNt7AMWE6YdSBQwXdCrh2uCUUuVBgtLfzcWEtMEbgkL00Eb6v",
+                "busType": "Volvo A/C Seater (1+1)",
+                "departureTime": "3:00 AM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": " HSR Layout BDA Complex",
+                        "droppingContact": "1234567890",
+                        "droppingId": "105179",
+                        "droppingLandmark": " HSR Layout BDA Complex",
+                        "droppingName": " HSR Layout BDA Complex (Pickup Bus)",
+                        "droppingTime": "4:00 AM"
+                    }
+                ],
+                "duration": "1:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 5,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0.25,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 0.25,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 5.25,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "TESTING ACCOUNT",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "7:00 AM",
+                "availableSeats": 53,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "omni Bus stand",
+                        "boardingContact": "12345678",
+                        "boardingId": "68220",
+                        "boardingLandmark": "majestic complex",
+                        "boardingName": "Koyambedu",
+                        "boardingTime": "11:45 PM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "d6aYrgzAxbpbZc+wz2zvRhoSWq71JdwWTZBHjDtg1juQtjZFOB3Owf+n/hQ/jhKY9dFWvmKwRIduXQrxvi0bAO60gp+ch8JBgDjqDai+UEoB2dmS7D25c7VyjniHMxWWTz5ekrTuKtBuycrOFA28OTGTw7opdcuDe8Or3HXNK5hRMRBYQMrzO8tB3Kg6AnM/c+AkljDXxecs6ynnuPaL/AqowU/eoPFeL/oh1MjR0BDwwm1t5Nt05dsbarDz5lZrazJ2NOauNTsOg9roCVXfP2y/KJFDy7nHCGP5R+Uu4ypT6+HyO3lE9j31hHP7NgjH0DwYCXZDu/10ESdUc5pSYXFRAKMupQpQ/klBvj7fwh8gSnEw9ZQG/HMvCLcsCfZJ6D1z7lv2jCepi9PgZdD25mW2jtjqMBlFZxZCq7mDxrDMqS4nyJPvTv6nxLPAvVx2dYh1GWxKE/1w79iT4A+mwhDmpEs1QqUc8bFC4i81qKawB4K4RPPod8s8VKVDzMcES7x6fHrp7Ub3F66GlO0IJB102FJQFpj/25A8PGB5k+ofK46ZI/ctIWCfqf93ysOVQCc5aKRGSc0i3ksX9wJTNMNeZuGZQV2/E2OyZzAwIpk6ZPR8gBxq98QiDn6InIKno6je88zEK74TA6lthWZmO+ek3q6+5wtN3/34Dv9AeRe/ihzZ9DnQDzZOUdHRcfOBWTxt5gJzht29bIix6jB+oGRD/KcRsggX46AHPu1SYwX/a4mmspAsAmib3N1nLtaUdwSbXvRyqgMusX4FNq6WFT2WbCNIU1TGYV8R570Baty8jkJQFpsgw7Sbsy8amyVpeJqLFApm2OPAUWYvOMJDw2wGc5Ql0E3f6d1DweV1Kx19aO0mZJyERzuacYJpfG9C",
+                "busType": "scania A/C Seater Multi axle semi sleeper (2+2)",
+                "departureTime": "11:45 PM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "Domlur",
+                        "droppingContact": "7204587325",
+                        "droppingId": "43227",
+                        "droppingLandmark": "Domlur",
+                        "droppingName": "Domlur",
+                        "droppingTime": "7:00 AM"
+                    }
+                ],
+                "duration": "7:15 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 900,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 45,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 45,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 945,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "TESTING ACCOUNT",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "9:00 PM",
+                "availableSeats": 28,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "akasdkkaspdkpajfaopjfpoaj",
+                        "boardingContact": "9818649029",
+                        "boardingId": "235884",
+                        "boardingLandmark": "HHH Hospital",
+                        "boardingName": "MAKKU Office",
+                        "boardingTime": "1:00 AM"
+                    },
+                    {
+                        "boardingAddress": "dadadasd",
+                        "boardingContact": "98765432112",
+                        "boardingId": "206248",
+                        "boardingLandmark": "DAJAJDADA",
+                        "boardingName": "Sheda Office",
+                        "boardingTime": "2:00 AM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "3ADCpV2uQhsoKwSpBTrRMw4vlagLtrE7mhBqRwH85C92XP5thlV0v4e9jftazCKaib+ZJRGEbzWcc43Umt/FFjGRemh1QhOrahq3fTDagrPbPDHOZyGqxDte6BEwLfHoGHdNzn9bwVu/FvVD8Fx6acPJm9iBcFzwUU0rg/awBtaGxG+a+p8nXZlgH4K8E52jbQj2aZxcHORoBOqTFAcNZEKrqrTC1knvmD9G4YoWNn6XrxijNo6n0Cy3xLL2T7bV8t+vYrTTcWAKLSfAms0YxRzQP6KKcf4884+0Z5rXlKzhyIrhu9NK3QGz3gxbgrEs0kc2UzgqryDGVwCcVVFTm/yPlHIdkBmp6PDxOyA2G1qWEehlAnjtlQONqnnu906kvwR2euQv6H21m7V/vGP3sGw8AkWnCVrxvZ9fZO1RGI1zoNcl+7Eoq3ymYvdxgHcYawkeDVzH77yMGSieNA4cZy8cVY9VNTYYQemv3Tvd01fh8T9SYpdVoSToimC0ex5ptN6NZuo8r2+WMc2uYGcrZAOW+SN1Rs27KVVjpvNkMXORihnpg5N3ob35kHHQcPP23qUhqDPuaQZA5vWUA/1TSpJb16I/XgkXpX/HTA9SSjUUg1SiHGbeNy0X4MSfT6rYVc5IPc6Y8So8UCguwc9p0GcyNs/ZYLzmHAlrNmlqF2BWTfAwkApNHu6YoKlCmADQY65BD+WyKDdum2sM1RLd4KIMzn6d7Kf4b08czglFgpurw//uSQgLBOWtO3cUAw40kARgxEjIUTJQ83KjFRsE2g/z0+LlG+ZULr189/GD1rvscPz1XLqo+s0qRBdZw7V01gY9tC5Qf8E33CU7bTRppEYlIqpg6J4cILO2jCtVs1JyhAUwW1qaxw+Iozq0AyxYq33H8lMasVrTuPzAd5ttwS4JNFKhxjrwgVQZQnR1CIqdma7o2VFW9OrRd1oE51q6",
+                "busType": "Tata A/C Seater/Sleeper Multi Axle (1+1)",
+                "departureTime": "1:00 AM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "Indira Nagar",
+                        "droppingContact": "9876543212",
+                        "droppingId": "206246",
+                        "droppingLandmark": "Indira Nagar",
+                        "droppingName": "Indira Nagar",
+                        "droppingTime": "9:00 PM"
+                    }
+                ],
+                "duration": "20:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 74,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 3.7,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 3.7,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 77.7,
+                        "tradeMarkupAmount": 0
+                    },
+                    {
+                        "basicAmount": 74,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 3.7,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 3.7,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 77.7,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "Prawaas2",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": false,
+                "arrivalTime": "7:00 AM",
+                "availableSeats": 11,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "Kullu",
+                        "boardingContact": "1234567890",
+                        "boardingId": "97867",
+                        "boardingLandmark": "Kullu",
+                        "boardingName": " By Pass, Kullu  (Pickup Bus)",
+                        "boardingTime": "1:00 AM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "VeNH4LQ+cRb7bWSkJPCK0g1SDLmy3+W64CAysVrtuzR7WnIZyb4vO+lD/5oYq8XVfv/NzsbNEqQ8nGnUEd0bPcfcSguf3MuW4H95rhdLUINfP3fywS3hUnieQ8djVP9ZkDgTWpZYyDXomN6xPd5BuwhjCIEI1DLD+tQcpx+tKLrb+67b5qT4Dxwb+lZLQo6zm6vcLErASYWWJUe5ojX2X/z+yfXkLW6jcyAEi6CtQKzf3LqUWGQaR9P3nh3Ejonx0wnJXzIb4nyHuP9artawTRPMUYkJYuVvogSKUG8Ujp8N3pbIvHhhfyhlg7RCvQp3uOAQ+6T9vjwUko0PIO3LWLO0mEh2qkX6ncuMxd9R80HtLUP4PtKRoMQxNEgMkeQSuVEiH2Tuc7fCJJxyUlRCDjoiT+D8LV9xbAz66J5mJjQG56fuOkZAnXouYl5ZuAZxfCIs5ANyU/FKyqASTUXuNGA1p7FQ0QA4122UvEF4Xh6axHMJ2fPiQdhIc5bhNCgzEDT/miRPdE01xkjfNxVbDANsFHuxFj9hJ1RqSIqxHXa/Qi7V2Ho0gSUyYBbtEeD5fIAMEzVKL/r0LPMlShlsWh9HzS7IIqKYdaA7z7F0x1ObRpJ1/cWXERTweFjBUKAaAQoNavQt1bEnHD4bSI2HNqLAGn14qLG9uZpX9M0J45z6a5SxLBMy4UZwf9Rii9nPTC4ivvEUM77HIv3+TBN0gGofvm1415wze4rea5txiHLiTfnJuSVKEHaLy8y/NeNeA1v4BBvIz8QyNNPPb9SxqLy7VNbShwasEvgM/3Eq/KdNEYs6t6ibCR+oGhZAHsa4yNH2NZh2nSceeftUfImpCtHZ1cebtRTDJXH/BfaV60rVPQpKTPEumDd5HiFR2sIr67x+JTdfeFZa5q1TSVLOMw==",
+                "busType": "Non A/C Seater/Sleeper (2+2)",
+                "departureTime": "1:00 AM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "Near to MC Donalds ",
+                        "droppingContact": "7411006038",
+                        "droppingId": "207687",
+                        "droppingLandmark": "MC Donald",
+                        "droppingName": " HSR Layout BDA Complex (Pickup Bus)",
+                        "droppingTime": "7:00 AM"
+                    }
+                ],
+                "duration": "6:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 15,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0.75,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 0.75,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 15.75,
+                        "tradeMarkupAmount": 0
+                    },
+                    {
+                        "basicAmount": 15,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0.75,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 0.75,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 15.75,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "TESTING ACCOUNT",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": false,
+                "arrivalTime": "4:06 PM",
+                "availableSeats": 9,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "100 feet road",
+                        "boardingContact": "234567895678",
+                        "boardingId": "157958",
+                        "boardingLandmark": "100 feet road",
+                        "boardingName": "100 feet road",
+                        "boardingTime": "4:03 PM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "v0dpdjY+6zaUd6/KTqsKC3RhKJ8CmYom/o38MnvVxG9r0TGgIQVGSteta707aF4HIm5h9erSm7n8ocO6srbRHcPiDuSKu3UPRtQhDow4JBwlXYNpuP4iS/418/D6J3QzaetABKxLh+sde6mcZpehssWwxsnjNmoQIKqV4Qg4gTeJohMk29GGPOXEqzVI2xKl9SYFPKCFro2SY8aPDOobFOllEBwB4RDiDO/2pWcaAsOGrJisOAB9yvLevsEyt0Fx52ZFmyrBq4JkV2k4+270ei/dSKKu0e6f0tmUPJraoK7t/lCONlzuEt/BIRoOWlbDVRTCNXjR7YkJ4s7R5NbluJrHjgJ81BywM2gnibg3+JbGEP3uGT8zJk8HiJnDJxjOfJP9faJtqC+93KZ0uERXdrGLyCzT3hOwj2V1apEi3LQ+nFE1RfavkcrKu6bPkzstipZIyTL2oTymVvM5f+k6H8qsusIbqWbEvHRpBgIs7OggRDZsC9zOB1KRAmpmODBTmWmXuCKoygaO9JRBdPA2AWY64O4ciuXxIYe4p93XD1iOFXuBQ0ZdVnU38DRl4ZmwoLiqXW750IuoTCw9A2veZYfuyexFvNpHEvoK4v/jeP50jjJQ+k3+xLKkZufWZ22aiZQ+YEixufDPycZjOR3Tj2ermQyn5KODndYBlaZ7jTSHXyJ7mjw8GBbGM+Bd/n3i/KZMzfsHs0dt7IUkxr6N51s6VCwVeogZiSiEEniQwrd3m7j6zEbbvuVwcsdM9PYvqpZ00osEke7VOhRqjwaiq/gVFutOKjttfP6bJjDbmbqwKE2EDOqNw885Gxfe0GXtQzXe0aNqlL5lqVUE7zrzMoPSCuyUkdtg4i0XNE/KT1KTx4pmzbwB/Jiq6Tzxf4Qu",
+                "busType": "Espano Divo Non A/C Seater Luxury (1+1)",
+                "departureTime": "4:03 PM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "hahahah",
+                        "droppingContact": "234567890456789",
+                        "droppingId": "157801",
+                        "droppingLandmark": "Kings landing",
+                        "droppingName": "09 th block – Marnahalli",
+                        "droppingTime": "4:06 PM"
+                    }
+                ],
+                "duration": "0:03 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 3,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0.15,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 0.15,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 3.15,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "TESTING ACCOUNT",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "10:00 AM",
+                "availableSeats": 5,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "test",
+                        "boardingContact": "9876543210",
+                        "boardingId": "24515",
+                        "boardingLandmark": "tyui",
+                        "boardingName": "Airport",
+                        "boardingTime": "5:00 AM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "vJrWSwk44c5zIpVxl7eK+kiFGJyLUM68gib27caEzsTi1v0gTbyr3kCAmO9WgBcwaGKolyqGv3uie+OIVqDpRhpcPR35BC/cbOneyqqknUG66HaTuNgZpAZRdvte1tTf78LVTDYlQ7CH2qlJC5w/1QBQT8peLAPL3FccWgipepAmnwTBjawf6XC5V1rTwUD7DqVrOCymaDWCz/U4mJWrwr/d7hiriVUDjSoEuHrFt/NCXRYXpYTywuIQrMTdh6W99IUa+tZ06RxR4gx/DqdMVXASnRbbq6aaPQiSM49/HlKHooknsQ+0TvyhInVGQ5nA18R+y2EWJCXzPBTxTqqsUpclqUXBrIP9MWD/ggmmfSxN34pVCooF2kAwV9LSPv+vhXabLBAq4oOzHi44rHIp3AfMc62VA7MzCizF9CY7wufHALuL2mN0xKU7z6IMz0XeWvHSm72+bMJ/5YYdRQ8wAxUqU29PwTSaQm6HPA5+/8CZXQsSIxV+en5dxJVlr98z2BJaAzxn6aeVMYrDfuzgjUgSvOT3yrPyzRPDhXK9QrbGoKRUOATeHfBP4e2RxZ9xEQkCQKviX/d+Hxt4pIYqGgx8svzTH0z3qWLgu+4VDCJ/dGhvqCYa1RPUflGIPfw6midxTOJijZYWEdQabNu3QsKEjhQ9HH4zyQPIskzFC8JlyFRV5D6BaaIE+rYoFc7ctt5ZyUL1xEUZ7Mxa9kmUdwF8me/2/LXJvPZll4gpkDWU7QSB4K25UgMyOXH51BYY1EdtP2RPiQYDbQxg2/9EVwugAZ3yhVpFc4k53dQXNuiJA+0U8SF5amDNlcNaiys2UxEhrr6t50thWwVAGWSTTQ==",
+                "busType": "MUV A/C Sleeper Executive Luxury (1+1)",
+                "departureTime": "5:00 AM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "test",
+                        "droppingContact": "1234567890",
+                        "droppingId": "79537",
+                        "droppingLandmark": "test",
+                        "droppingName": "B K Circle",
+                        "droppingTime": "10:00 AM"
+                    }
+                ],
+                "duration": "5:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 10,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0.5,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 0.5,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 10.5,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "bogds1",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 1,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "TAXI",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "5:00 PM",
+                "availableSeats": 11,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "Koyambedu xyz",
+                        "boardingContact": "9876543210",
+                        "boardingId": "40477",
+                        "boardingLandmark": "Koyambedu",
+                        "boardingName": "Koyambedu abc",
+                        "boardingTime": "11:00 AM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "ZImcvCLYHky0UidqTJRzptjF3EfKwRe7Oa51iGS5HaOK0gSjk7OHz5PwQFH482tHQKis5LwSQQqatdZYLIl05aXgW+241TAExwEnXJ/M/UKPX/9MT3ySWXp2xAimq2exo1WuZ3z29dp9/T9Rxo2FCggLivneV3i4C141sHu6MJmD037xcVGc3SNUC4gK3JNBhK12L5zrCiFbsJoxmy13RuY4AB9GY71P+Aq3e7saMCHmX0RVY267JT41c/D9IpZooD4SopEyi5yTKlUaMZGUijxtgIB41Yi1Z0RhAt+pemPfImaImNYPpB2TUJGbX7pIYSUlPaGzF9MDdYW+0mq6kbvoMcpjMlD296N8GGmF34nKmHHi2dfJVimr++giiqXWor1kxDLVw5MZvkUBB6gGyxUK5W0mN8juIr4umDRyYMQLDFBTD5hhLciJm59dp6UMi8LEZfb4napzdxnwYfPzyMSUO4FZwAiTBJF3mqD3Gcpg07PZHZHlQM4cvJSdYUr6eGsDDFtjY15aB2WJeSVlSgCoCyrRZZQAAEPq2/avZU2ES06Nvu1MavKzYPI4zvGei9yFHxKjhCqKnX8apUmrAzq0Tq+P6pw5mSV7yJdGEJkbCOaoe0wlG187bSDtDThCkXASYyTmepi1zQM/t/fb5zE1Sgji+v3cSGKN0R8pjTeGRvEkvQCCUDJWJJbRIy9+5tH7jiXcDl22YxdX1WD0tnwQVqIx2IFNELfwfEcrXVaZ4zVhs+FpmOQd7D+7LRgFg/4gHMHW54yceeRC1qEoGWfmnPaoMQDEXw11cxfDlI5l2R0b7/Chi9k40rFGoNryBEgfcbervRyo/n76bY9G8KGx2+VBwNYfM1sfacMHqBBuauv89lFLB5Lytz3UQc7B",
+                "busType": "Mercedes Benz A/C Seater Air Suspension (2+1)",
+                "departureTime": "11:00 AM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "Domlur",
+                        "droppingContact": "909090909090",
+                        "droppingId": "26609",
+                        "droppingLandmark": "Domlur",
+                        "droppingName": "Domlur",
+                        "droppingTime": "5:00 PM"
+                    }
+                ],
+                "duration": "6:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 100,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 5,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 5,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 105,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "TESTING ACCOUNT",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "5:00 AM",
+                "availableSeats": 52,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "omni Bus stand",
+                        "boardingContact": "12345678",
+                        "boardingId": "68220",
+                        "boardingLandmark": "majestic complex",
+                        "boardingName": "Koyambedu",
+                        "boardingTime": "9:00 PM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "VCJRWS1QHGgePUYiKRnERNNJtRBlkDM/J06+P7QEfXT23xDCBxZZh85CxP5J3zRt2xJz9y6Ihz7AiyI2s4f6a2ztNAQ6TX29t2cBvVAXDNGCueMVGqzLtS+k5YHUzFi8obXGcQK91lfBwotAPlb5NEBResZZZo+JETYbLJ+HK28iCJify9TMBWpxNqhszkgjdlY7gezrvIkSZcUTR/viiNMNQJHtajDCChqspzM7+bmjUd4MWfQrOo4sZXFO0lMpl/arwggL+FToK7OdA5kGISxWfE+J9NbCRpksKv2bIrliOs/Qdl3EcW3vkpoXi+9kQBqquQwiSbLxncO1gevNytHBnX61QQaUlRmj4frbMwO1n5IKC6GkFsU3PZRDrBBpvg+8KRu2mz4WqRvW6VPgdqMzSrajM6aBTpewg+LOdVUKg4pjpavZcbYlRS8RmC0R2fX2v+9OuT2gP0gVYZaFKJzfN5UFLQJK/y0p2myGZl8iyv8PTc+P9C19M+rMF2Kayu4OQwLCBQstX9N57VcRMDqaiE1U2WjBVk+T9apKNrGrMm/JXDJbEv6cSGvU1828uOQq3B/MORRM1KQYvoRzqXuWJMokZhY3tiDe4twked4bm0Pwjm65JiEz6h2yKv7ap2oDt4f09ZnLjs7vaN1EqSpF2q8JrUfrwOj0zR1ytNyUofI7plhRNKf9mN/XQp44MswFimPZRfZpgGPwpaf15At12Lswg9oW1zLPapUyJzGDUljqkxkoakXWV6vftp1TuUuzpOKgy37GimOCb9zkmr+Qk+XangFDM9/S19Dn7tlqLaZmW7L7aaqYHAuMPMcI/TQ9SMmth9JJGlVX4JoLt598C0jtEnjL1vv8NEYq2LtA3G/RD2yMjXsruxmhdu2obrB3pgdtrkjvINlQdDvH1x60JYL4kq8LrLRlYFncFoM=",
+                "busType": "Mercedes Benz A/C Seater/Sleeper (2+1)",
+                "departureTime": "9:00 PM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "Domlur",
+                        "droppingContact": "7204587325",
+                        "droppingId": "43227",
+                        "droppingLandmark": "Domlur",
+                        "droppingName": "Domlur",
+                        "droppingTime": "5:00 AM"
+                    },
+                    {
+                        "droppingAddress": "test",
+                        "droppingContact": "1234567890",
+                        "droppingId": "79537",
+                        "droppingLandmark": "test",
+                        "droppingName": "B K Circle",
+                        "droppingTime": "5:10 AM"
+                    }
+                ],
+                "duration": "8:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 200,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 10,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 10,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 210,
+                        "tradeMarkupAmount": 0
+                    },
+                    {
+                        "basicAmount": 450,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 22.5,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 22.5,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 472.5,
+                        "tradeMarkupAmount": 0
+                    },
+                    {
+                        "basicAmount": 300,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 15,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 15,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 315,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "SS New Seat Layout Prod",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "5:00 AM",
+                "availableSeats": 20,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "Adyar",
+                        "boardingContact": "234567890",
+                        "boardingId": "198723",
+                        "boardingLandmark": "bjks",
+                        "boardingName": "Adyar",
+                        "boardingTime": "1:00 PM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "t4UFQNQkdABzON8MhMiNhV7crOgeWuzJz5BjAO79F+qb8tXlODDA7X6GmD//BDGZvUEf4A9Ec76LyQ5abM8ATXPyPqPk0vHc9Po75vMJ9855aRTpEDsJqbiuWVIpddqWuxpc/TqaqmgDIBsUke3lg88sA8A5iRPvzFvsGjARJuUPQ1enKCLDI/NwEUtEl3qgmOpznQjl628zuJM9uyRMCssGfP3dyFgYcZC1bLc868us3y7brbE4nVEZxCljkW/r7DYOSUh+vurHvLW6YMVAmnf2foJgmCeYhNrUjBTvifZtVzrPNVcQW71Hn5gqWwF7LdjrWzWqt32i/DlIAUKT4QDh98sOm+o8/sNVW6lXJSOQrFXa6aD5Lsry0lYIiPUVhBegcNpALkSGW6Fhdxb2nbD3gsTT8snheVl/Qur1OlnxehXA9iR19gwpZyQAeM7ox8pu44oQ11CXEgKo/P9C89f3hrWAa2apwNxzgbd8cCmeg+poOcV2TuhlnQNRAbsd8qykCxgFWcfmJBUEbRDjaDDWVVg6Yw4yKzfC3P0klrMFVVvrnbzbhmjd0LcKrohjyv7DUoyNf+IYo6hlhDx4lO9I7gzabgE6Y58+aANkgYbjhiF6zcZvYS5PPHH4EqXQvKqiQ1zPH1zIQnGowdDwee7DfiikACihJxPHDgbQR8J8y3b+Yr7kzFAWWo8Tirrv6lUx/HnLVlFWv0U24w64RMHAso7L3YIpZmEg0jY3IOgV+Exs85yDdKVX/P0xqH47j5kfXcIPpoM/3RSN+kGgBpMOxDob/lQIn7RamL9nVKI=",
+                "busType": "scania A/C Seater/Sleeper Luxury (1+1)",
+                "departureTime": "1:00 PM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "asd",
+                        "droppingContact": "2345",
+                        "droppingId": "198726",
+                        "droppingLandmark": "fghj",
+                        "droppingName": "7th Block",
+                        "droppingTime": "5:00 AM"
+                    }
+                ],
+                "duration": "16:00 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 123,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 6.15,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 6.15,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 129.15,
+                        "tradeMarkupAmount": 0
+                    },
+                    {
+                        "basicAmount": 123,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 6.15,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 6.15,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 129.15,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "RB",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            },
+            {
+                "AC": true,
+                "arrivalTime": "5:00 AM",
+                "availableSeats": 10,
+                "boardingDetails": [
+                    {
+                        "boardingAddress": "test",
+                        "boardingContact": "1234567890",
+                        "boardingId": "24514",
+                        "boardingLandmark": "test12",
+                        "boardingName": "Adyar",
+                        "boardingTime": "10:27 PM"
+                    }
+                ],
+                "bookable": true,
+                "busKey": "pa6y+zm+E8YuPUcV04b7oFIOYsdolKCItLsM1jJhZztogKmmvkxEPzIgmp8lyLfQjMMq46rYZTfoI9+5vvs9BMzK4a2tcbR5qTTQy7QeW1zV4o0ixwn1tDlzUQ6YkRw41MUgHTPdqUodd2Er+8p9mqZaJHFx6o2kmSoL0P/xRjZ5IHj9JNocDVRKF+8UwC4OsVhM6EXNF/BTIpD7DUDnlzYdCHBsRvsnxmvHIEXjaU0RA129OVjXCm8AtL7x5sHUWg3u36DWM4zTwL+xVFQsZaoG4xbNennjzLl2Vd9FvvUVLSQg1jQDwFJRunYsV0ytNwi7wlJgz8uEQFQvVVDiK7HJh4U/RevC5vGU3bA6zyB6+PX9xWaEpuluB9IXImyySlhaJGHaud40W27aR8IURMVgeROSb11fcnT8PLlvjDLABXQP1UEGlOTTpku66B4GfUFF3x/mp1u927Ev5n2uu+ZkMUnSiaqkk07oyyCh5nKYRJDa2pajqcFsGkn+viuUK/KS7NYwXchRvQhlmLm5qsC4GXDnPzrCPL3C7ytajJ/GyKmyyQR8M4L6gozPTxQe98107pG6v97yxYqjVbX+HzS6wyL04gJMY8cyKHUgT1XNtejtGhmTXwq3MK38o+wNXi8+sIa5ym3kCSzq6A1LeruSGeIH4bsg8HVEfzMij5gRXKd5RjDfgVATMxq/IeXAPp2uCzJQjkWJmzCXZo57NUL/gVrO+XHFSs/qY1gFu3DrES4fFt5pfs88lsdwY4LtUdXo0uKxVp/QCaWbzHt3be5jQ20t3yyfQTjMLSJHzdWSSlWSw+aFDc0kbHTEEeB5lSPp2oPX4K939K6od+pX8RdPli9ARZH0hBT/uhEir3Y=",
+                "busType": "Espano Divo A/C Seater Air Suspension (2+1)",
+                "departureTime": "10:27 PM",
+                "dropPointMandatory": false,
+                "droppingDetails": [
+                    {
+                        "droppingAddress": "Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,Nandi hills, Nandi hills, Nandi hills, Nandi hills, Nandi hills,",
+                        "droppingContact": "23456789",
+                        "droppingId": "156524",
+                        "droppingLandmark": "test",
+                        "droppingName": "BABUSABPALYA (Pickup Bus)",
+                        "droppingTime": "5:00 AM"
+                    }
+                ],
+                "duration": "6:33 hrs",
+                "fareMasters": [
+                    {
+                        "basicAmount": 10,
+                        "cancellationCharges": 0,
+                        "fareDetails": [
+                            {
+                                "amount": 0,
+                                "fareDesc": "OperatorServiceCharge",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0.5,
+                                "fareDesc": "GST",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "TollFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "levyFare",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "BookingFee",
+                                "refundable": true
+                            },
+                            {
+                                "amount": 0,
+                                "fareDesc": "Others",
+                                "refundable": true
+                            }
+                        ],
+                        "GST": 0,
+                        "grossCommission": 0,
+                        "netCommission": 0,
+                        "otherAmount": 0.5,
+                        "serviceFeeAmount": 0,
+                        "totalAmount": 10.5,
+                        "tradeMarkupAmount": 0
+                    }
+                ],
+                "fromCity": "102",
+                "getFareMandatory": false,
+                "operatorName": "TESTING ACCOUNT",
+                "partialCancellationAllowed": true,
+                "seatLayout": false,
+                "seatType": 0,
+                "serviceNextDay": false,
+                "toCity": "3",
+                "travelDate": "16/1/2025",
+                "vehicleType": "BUS",
+                "mTicket": true
+            }
+        ]
+    },
+    "modal": null,
+    "successImage": null,
+    "message": "SUCCESS",
+    "modalStatus": null,
+    "alert": null,
+    "login": null,
+    "title": null,
+    "verifyOtp": null,
+    "className": null,
+    "hideClass": null,
+    "modalClose": null,
+    "modalId": null,
+    "dataTarget": null
+}
