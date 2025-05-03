@@ -1,46 +1,14 @@
-// src/app/booking/seats/[busId]/page.tsx
 "use client";
+import SeatMapPage from "@/components/BusSeatLayout";
+import { usePathname } from "next/navigation";
 
-import { useParams, useRouter } from "next/navigation";
-import SeatMap from "@/components/SeatMap";
-import { useEffect, useState } from "react";
-import axios from "axios";
-
-type Seat = {
-  number: string;
-  available: boolean;
-  price: number;
-};
-
-export default function SeatSelection() {
-  const { busId } = useParams();
-  const router = useRouter();
-  const [seats, setSeats] = useState<Seat[]>([]);
-
-  useEffect(() => {
-    const fetchSeats = async () => {
-      try {
-        const response = await axios.post(
-          `https://uat.travl.tech/api/bus/seatmap?resp=${busId}`
-        );
-        setSeats(response.data.seats);
-      } catch (error) {
-        console.error("Failed to fetch seats:", error);
-      }
-    };
-    fetchSeats();
-  }, [busId]);
+export default function SeatMap() {
+  const pathname = usePathname(); // URL पथ पाएं (जैसे '/seats/1')
+  const busId = pathname.split("/").pop(); // अंतिम भाग निकालें ('1')
 
   return (
-    <div className="p-8">
-      <h1 className="text-2xl font-bold mb-6">Select Seats</h1>
-      <SeatMap seats={seats} />
-      <button
-        onClick={() => router.push("/booking/passenger")}
-        className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
-      >
-        Proceed to Passenger Details
-      </button>
+    <div>
+      <SeatMapPage busId={busId} />
     </div>
   );
 }

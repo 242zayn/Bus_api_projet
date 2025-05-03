@@ -1,0 +1,89 @@
+[
+    {
+        "AC": true,
+        "arrivalTime": "4:00 AM",
+        "availableSeats": 16,
+        "boardingDetails": [
+            {
+                "boardingAddress": "Kukatpalli, testing",
+                "boardingContact": "99999999999999",
+                "boardingId": "24511",
+                "boardingLandmark": "kukatpalli,Testing",
+                "boardingName": "Abids",
+                "boardingTime": "3:00 AM"
+            }
+        ],
+        "bookable": true,
+        "busKey": "tGhyYoZIqrip2vh4taLyiCGZiV46tNiz5MhkbVRYu64EL0xQH06skc+CXBbdaJZMLydQBjyfEKyuoZyHo8O799SnIY0UkJml+CUsAQhx9a7Lwk9ge6aV999CkO/rbGOG0Z5/OfvV+CS1dzjdwtdm6nwu+/m6FQG0/xLLw73rHvq8tG4Z/3gVymYSv5ynWQigiNrKtNPdNav23u7rWTkLIqXmN7lmZpzlBqIUsSblmseY5xR52bVYTGTRKX9OLbk4yLB+B9z9oz67LS1P+2BwIXwy24e/JN4YCMR/FHEwo2b7PaRdCx728NczsS7PzP+v0eI+fcegAlpbMpC8CLvN89zFFwY8B9Scx2JF92eYVMUhoLwgd22kh4tMap2zxEVvaKEzRp8/lc2dgB5dHA+y0HLS8+lfjIl4UMnzM0H/o3eWxvK0QSf0tvfJVl1yQhwVJ6sET/BQBVO/qt+oh8D5OPOJL0ryw5RfvZ8qUEK74y7kqgRF4zs+HjIJRgdlmamMEPzArmVwQkBSrr6vVY1QKRpanPweE3XimLfDRW4LXLxbsLUPXUHpcxfsM9KG1SXrpyKfIP+R3odBxMW6U0JL2gYkzSCov+7OWiG9eW/zy+gb467QPZOQC2EWOQ2+hswDAQtNdABx23nyUGJV+z6vdKSYHooDUf36Dqs9cN3R13X9qpcWpoHRMCU1RaT70Tzb5aTqMIsLUGjnnor6RLgia2wvfItgE7fdPrTxoBZS+TB720wrScSVgfZF7lWPpQqlp6L/qdQRtsVK6sKPtXQeCqsWWXCMDvwnB3CLipvMSUkQjh8F9/vpA8E5HzH/JKD0/7EZrxnTcXFzVEJbNt7AMWE6YdSBQwXdCrh2uCUUuVBgtLfzcWEtMEbgkL00Eb6v",
+        "busType": "Volvo A/C Seater (1+1)",
+        "departureTime": "3:00 AM",
+        "dropPointMandatory": false,
+        "droppingDetails": [
+            {
+                "droppingAddress": " HSR Layout BDA Complex",
+                "droppingContact": "1234567890",
+                "droppingId": "105179",
+                "droppingLandmark": " HSR Layout BDA Complex",
+                "droppingName": " HSR Layout BDA Complex (Pickup Bus)",
+                "droppingTime": "4:00 AM"
+            }
+        ],
+        "duration": "1:00 hrs",
+        "fareMasters": [
+            {
+                "basicAmount": 5,
+                "cancellationCharges": 0,
+                "fareDetails": [
+                    {
+                        "amount": 0,
+                        "fareDesc": "OperatorServiceCharge",
+                        "refundable": true
+                    },
+                    {
+                        "amount": 0.25,
+                        "fareDesc": "GST",
+                        "refundable": true
+                    },
+                    {
+                        "amount": 0,
+                        "fareDesc": "TollFee",
+                        "refundable": true
+                    },
+                    {
+                        "amount": 0,
+                        "fareDesc": "levyFare",
+                        "refundable": true
+                    },
+                    {
+                        "amount": 0,
+                        "fareDesc": "BookingFee",
+                        "refundable": true
+                    },
+                    {
+                        "amount": 0,
+                        "fareDesc": "Others",
+                        "refundable": true
+                    }
+                ],
+                "GST": 0,
+                "grossCommission": 0,
+                "netCommission": 0,
+                "otherAmount": 0.25,
+                "serviceFeeAmount": 0,
+                "totalAmount": 5.25,
+                "tradeMarkupAmount": 0
+            }
+        ],
+        "fromCity": "102",
+        "getFareMandatory": false,
+        "operatorName": "TESTING ACCOUNT",
+        "partialCancellationAllowed": true,
+        "seatLayout": false,
+        "seatType": 0,
+        "serviceNextDay": false,
+        "toCity": "3",
+        "travelDate": "16/1/2025",
+        "vehicleType": "BUS",
+        "mTicket": true
+    }
+]
