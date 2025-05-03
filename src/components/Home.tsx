@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 import SearchForm from "./SearchForm";
 import BusCard from "./BusCard";
 import ThemeToggle from "./ThemeToggle";
-import { BustSearchListType, FilterBusType, SeatMap } from "@/types/type";
+import { BustSearchListType, SeatMap } from "@/types/type";
 import SeatMapJson from "../lib/SeatMap.json";
 import SeatMapCard from "./SeatMapCard";
 
@@ -12,13 +12,11 @@ const Home = () => {
   const [bList, setBList] = useState<BustSearchListType | null>(null);
   const [seatMapList, setSeatMapList] = useState<SeatMap | null>(null);
 
-
   //   console.log(bList);
 
   const handleDataFromChild = (data: BustSearchListType) => {
     setBList(data);
   };
-
 
   useEffect(() => {
     setSeatMapList(SeatMapJson as SeatMap);
@@ -41,10 +39,7 @@ const Home = () => {
             </Button>
           </div>
         </div>
-        <SearchForm
-          sendDataToParent={handleDataFromChild}
-        
-        />
+        <SearchForm sendDataToParent={handleDataFromChild} />
       </div>
 
       <div className=" py-10 bg-transparent flex gap-5 flex-wrap justify-center">

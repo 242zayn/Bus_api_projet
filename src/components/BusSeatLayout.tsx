@@ -13,24 +13,23 @@ const SeatMapPage = ({ busId }: { busId: string }) => {
   const [selectedSeats, setSelectedSeats] = useState<SeatLayoutEntity[]>([]);
   const [totalPrice, setTotalPrice] = useState(0);
 
-  const fetchSeatMap = async () => {
-    try {
-      setLoading(true);
-      const response = await axios.post(
-        `https://uat.travl.tech/api/bus/seatmap?resp=${busId}`
-      );
-      setVrSeatData(response.data);
-    } catch (err) {
-      setError("Failed to fetch seat map data");
-      console.error("Error fetching seat map data:", err);
-    } finally {
-      setLoading(false);
-    }
-  };
-
   useEffect(() => {
+    const fetchSeatMap = async () => {
+      try {
+        setLoading(true);
+        const response = await axios.post(
+          `https://uat.travl.tech/api/bus/seatmap?resp=${busId}`
+        );
+        setVrSeatData(response.data);
+      } catch (err) {
+        setError("Failed to fetch seat map data");
+        console.error("Error fetching seat map data:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
     fetchSeatMap();
-  }, []);
+  }, [busId]);
 
   // Handle seat selection
   const toggleSeatSelection = (seat: SeatLayoutEntity) => {

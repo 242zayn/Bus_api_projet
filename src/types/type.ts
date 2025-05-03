@@ -184,7 +184,7 @@ export interface FareDetailsEntity {
 
 // Filter bus data type
 
-export interface FilterBusType {
+export interface FilterBusList {
   AC: boolean;
   arrivalTime: string;
   availableSeats: number;

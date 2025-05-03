@@ -3,11 +3,9 @@
 import { useForm } from "react-hook-form";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { BustSearchListType } from "@/types/type";
+import { BustSearchListType, FilterBusList } from "@/types/type";
 import BusList from "../lib/BusData.json";
 import OpenInFullIcon from "@mui/icons-material/OpenInFull";
-import busJsonData from "../lib/Filterbus.json";
-
 type SearchFormData = {
   from: string;
   to: string;
@@ -29,7 +27,9 @@ export default function SearchForm({ sendDataToParent }: ChildProps) {
     []
   );
 
-  const [filteredBuses, setFilteredBuses] = useState<any[]>([]);
+  const [filteredBuses, setFilteredBuses] = useState<FilterBusList[] | null>(
+    null
+  );
   useEffect(() => {
     const GetCityFun = async () => {
       try {
@@ -68,7 +68,7 @@ export default function SearchForm({ sendDataToParent }: ChildProps) {
 
       setCityPairs(uniquePairs);
     }
-  }, []);
+  }, [sendDataToParent]);
 
   const handleInputChange = (value: string, field: "from" | "to") => {
     setActiveField(field);
@@ -117,9 +117,9 @@ export default function SearchForm({ sendDataToParent }: ChildProps) {
     };
 
     if (bList) {
-      const filteredBuses = filterBusData(data.from, data.to);
-      console.log("Filtered Buses:", filteredBuses);
-      setFilteredBuses(filteredBuses);
+      const NewfilteredBuses = filterBusData(data.from, data.to);
+      console.log("Filtered Buses:", NewfilteredBuses);
+      setFilteredBuses(NewfilteredBuses);
       // setFilterBus(filteredBuses);
     }
   };
@@ -213,8 +213,9 @@ export default function SearchForm({ sendDataToParent }: ChildProps) {
       </form>
 
       <section className="py-10 bg-transparent flex gap-5 flex-wrap justify-center">
-        {filteredBuses.length > 0 &&
-          filteredBuses.map((data, index) => (
+        {filteredBuses &&
+          filteredBuses.length > 0 &&
+          filteredBuses?.map((data, index) => (
             <div
               key={index}
               className="max-w-sm p-6 bg-orange-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-lg transition-all"
